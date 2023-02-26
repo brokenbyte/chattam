@@ -1,0 +1,3 @@
+   Compiling chattam v0.1.0 (/home/user/code/rust/chattam)
+    Finished dev [unoptimized + debuginfo] target(s) in 1.99s
+     Running `/home/user/code/rust/chattam/target/debug/client`
